@@ -1,5 +1,3 @@
-# api-cats
-#Javascript #Node
 
 ## API-REST  🐈
 O desafio é fazer uma API REST completa com todos os verbos: GET, POST, PATCH e
@@ -91,6 +89,5 @@ requisição nem na resposta (status code **204**).
 
 ## Tools
 
-VS Code
-NodeJS
-Express
+- NodeJS
+- Express
