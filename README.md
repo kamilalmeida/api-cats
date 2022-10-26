@@ -91,3 +91,9 @@ requisição nem na resposta (status code **204**).
 
 - NodeJS
 - Express
+
+# Para instalar das dependências
+  npm install
+  
+# Para rodar o projeto
+  node server.js
