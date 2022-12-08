@@ -1,5 +1,7 @@
 
 ## API-REST  🐈
+Desenvolvi essa API para práticar meus conhecimentos adquiridos.
+
 O desafio é fazer uma API REST completa com todos os verbos: GET, POST, PATCH e
 DELETE. A ideia da API é manter uma lista de gatos famosos que aparecem em
 desenhos e animações, como Tom, Garfield e Felix.
